@@ -2,10 +2,10 @@
 	"plugins": ["youtube", "accordion", "styled-blockquotes", "localized-footer", "edit-link", "githubcontributors", "image-captions"],
 	"language": "es",
 	"variables": {
-	* "title": "Curso de SPHERO-MINI",
+	"title": "Curso de SPHERO-MINI",
 		"authors": [
-	* "Javier Quintana ",
-	* " "
+	"Javier Quintana ",
+	" "
 		],
 		"collaborators": [
 		{"name": " ", "edited": " "},
