@@ -1,4 +1,3 @@
 # SPHERO MINI
 
-![](https://www.actualidadiphone.com/wp-content/uploads/2017/11/Sphero-Mini-03.jpg)
-
+![](/assets/2019-09-17 13_02_59.jpg)
