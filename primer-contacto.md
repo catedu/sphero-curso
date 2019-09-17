@@ -1,4 +1,4 @@
-#Primer contacto
+#Primer contacto: Jugar
 
 Lo primero que podemos hacer es abrir el paquete, ver el contenido y ... jugar un poco con la APP **[Sphero Play](https://play.google.com/store/apps/details?id=com.sphero.spheromini&gl=ES)**
 
