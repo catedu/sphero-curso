@@ -5,4 +5,4 @@ Durante la carga el **LED ES AZU**L y aproximadamente **una hora** acaba el proc
 
 ![](/assets/2019-09-17 08_33_43-Window.jpg)
 
-Esto te puede dar una autonomía oficial de 45 minutos, genial para una clase, pero si no has cuidado la batería convenientemente ([ver Apagar](/pros-and-cons.md)) esto se suele acortar.
+Esto te puede dar una autonomía oficial de **45 minutos**, genial para una clase, pero **si no has cuidado la batería convenientemente** ([ver Apagar](/pros-and-cons.md)) te puedes quedar con el robot apagado en medio de la actividad.

@@ -1,3 +1,4 @@
-# My Awesome Book
+# SPHERO MINI
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+![](https://www.actualidadiphone.com/wp-content/uploads/2017/11/Sphero-Mini-03.jpg)
+
