@@ -4,4 +4,5 @@
 * [Primer contacto](primer-contacto.md)
 * [Apagar](pros-and-cons.md)
 * [Batería](bateria.md)
+* [tema 2](tema-2.md)
 
