@@ -2,7 +2,8 @@
 
 Mira esta presentación
 
-%accordion%tienes que ver esto%accordion%
+%accordion% tienes que ver esto %accordion%
+
 aquí
 
 kxjñljasñldjañlskdfjas
