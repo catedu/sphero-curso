@@ -1,8 +1,9 @@
 # Summary
 
 * [Introduction](README.md)
-* [Primer contacto](primer-contacto.md)
+* [1.1Primer contacto](primer-contacto.md)
 * [Apagar](pros-and-cons.md)
-* [Batería](bateria.md)
-* [tema 2](tema-2.md)
+    * apatar2
+    * [2.2 tema 2](tema-2.md)
+        * [3. Batería](bateria.md)
 
