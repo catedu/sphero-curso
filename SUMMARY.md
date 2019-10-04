@@ -5,4 +5,5 @@
 * [Apagar](pros-and-cons.md)
 * [Encender](encender.md)
 * [Segundo: Programar](segundo-programar.md)
+* [Actividades de otros](actividades-de-otros.md)
 
