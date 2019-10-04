@@ -13,3 +13,4 @@ No sale una lista de robots cercanos, y nos conectamos al que deseemos (en un gr
 ![](/assets/2019-10-04 09_54_04-Sphero Edu.jpg)
 
 ##Con la APP Android
+
