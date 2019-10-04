@@ -12,5 +12,20 @@ No sale una lista de robots cercanos, y nos conectamos al que deseemos (en un gr
 
 ![](/assets/2019-10-04 09_54_04-Sphero Edu.jpg)
 
+Y calibramos con los botones < y >, el punto luminoso del robot te tiene que ver a ti:
+
+![](/assets/2019-10-04 13_30_34-Window.jpg)
+
 ##Con la APP Android
 
+Buscamos el mismo botón del robot:
+
+![](/assets/2019-10-04 13_23_32-Window.jpg)
+
+Nos conectamos con el robot:
+
+![](/assets/2019-10-04 13_26_32-Window.jpg)
+
+Y calibramos
+
+![](/assets/2019-10-04 13_29_05-Window.jpg)
