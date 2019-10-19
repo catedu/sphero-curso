@@ -30,6 +30,10 @@ Y calibramos
 
 ![](/assets/2019-10-04 13_29_05-Window.jpg)
 
+Ya sabes, poner el punto que te mire a ti:
+
+![](/assets/2019-10-19 20_27_03-Window.jpg)
+
 ##¿Problemas?
 
 Conecta el robot al cargador y eso provoca un reseteo del Bluetooth
