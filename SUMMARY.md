@@ -5,7 +5,9 @@
 * [2 Segundo: Programar](segundo-programar.md)
 * [3 Encender](encender.md)
 * [4 Apagar](pros-and-cons.md)
+* [Giro-mensaje](giro-mensaje.md)
 
+---
 
 * [Actividades de otros](actividades-de-otros.md)
 
