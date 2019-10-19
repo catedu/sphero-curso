@@ -35,3 +35,7 @@ Y calibramos
 Conecta el robot al cargador y eso provoca un reseteo del Bluetooth
 
 ![](/assets/2019-10-04 15_01_01-Sphero Edu.jpg)
+
+En la misma APP te recomienda también hacer lo mismo
+
+![](/assets/a3f68000-0949-4471-8e23-fbb49eb79138.jpg)

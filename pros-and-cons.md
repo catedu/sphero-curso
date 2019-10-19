@@ -7,7 +7,7 @@ Para apagar el Sphero tienes que hacerlo POR SOFTWARE **UN ROLLO !!** pero hay q
 
 <hr />**SI NO HACES ESTO ACORTAS LA DURACIÓN DE LA BATERÍA**<hr />
 
-##Apagar desde la APP
+##Apagar desde la APP 
 [Entra en la APP](https://play.google.com/store/apps/details?id=com.sphero.spheromini&gl=ES)y dar a configuración -> opciones avanzadas -> Apagar
 
 ![](/assets/2019-09-17 08_24_44-Window.jpg)
