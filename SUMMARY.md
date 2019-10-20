@@ -8,6 +8,7 @@
 * [Giro-mensaje](giro-mensaje.md)
 * [¿Ganaré la lotería?](ganare-la-loteria.md)
 * [Malabares](malabares.md)
+* [Cuadrado](cuadrado.md)
 
 ---
 
