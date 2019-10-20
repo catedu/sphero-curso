@@ -1,16 +1,16 @@
-#7 Malabares
+#7 Cuadrado
 
 ###Objetivo
 Un programa que mueva a Sphero Mini en un cuadrado 10cm x 10 cm y visualizaremos el resultado en el registro de sensores del mismo programa.
 
 ##Programa
-Este
+Este programa el truco está en hacer un bucle que mueva el robot hasta que la posición de la ordenada sea 10 cm, orientamos el sphero-mini y a por el siguiente lado. Total 4 bucles.
 
 El programa lo puedes encontrar en este enlace
 
-https://edu.sphero.com/remixes/5451292
+https://edu.sphero.com/remixes/5450219
 
-![](/assets/2019-10-20 13_00_41-Sphero Edu.jpg)
+![](/assets/2019-10-20 13_33_22-Window.jpg)
 
 ##Sensor data
 
