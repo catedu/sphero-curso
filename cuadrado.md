@@ -22,6 +22,8 @@ y la verdad es que ha salido un cuadrado un poco .... vamos que el error es casi
 
 ![](/assets/2019-10-20 13_38_51-Window.jpg)
 
+Pero SI que el sensor mide bien, lo puedes ver en el vídeo:
+
 ##Resultado
 
 {% youtube %}https://youtu.be/YxkXVzXxxsE{%endyoutube%}
