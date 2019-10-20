@@ -1,4 +1,4 @@
-#7 ¿Ganaré la lotería?
+#8 ¿Ganaré la lotería?
 
 ###Objetivo
 Un programa sencillo de adivinanza
