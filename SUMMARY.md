@@ -7,7 +7,7 @@
 * [4 Apagar](pros-and-cons.md)
 * [Giro-mensaje](giro-mensaje.md)
 * [¿Ganaré la lotería?](ganare-la-loteria.md)
-* Malabares
+* [Malabares](malabares.md)
 
 ---
 
