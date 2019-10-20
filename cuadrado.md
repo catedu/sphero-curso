@@ -12,6 +12,17 @@ https://edu.sphero.com/remixes/5451292
 
 ![](/assets/2019-10-20 13_00_41-Sphero Edu.jpg)
 
+##Sensor data
+
+Una vez ejecutado, podemos ir al registro de los sensores:
+
+![](/assets/2019-10-20 13_37_13-Window.jpg)
+
+y la verdad es que ha salido un cuadrado un poco .... vamos que el error es casi del 70%
+
+![](/assets/2019-10-20 13_38_51-Window.jpg)
+
 ##Resultado
 
-{% youtube %}https://youtu.be/YxkXVzXxxsE{%endyoutube %}
+{% youtube %}https://youtu.be/YxkXVzXxxsE{%endyoutube%}
+
