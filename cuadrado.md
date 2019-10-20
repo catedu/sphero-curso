@@ -18,11 +18,11 @@ Una vez ejecutado, podemos ir al registro de los sensores:
 
 ![](/assets/2019-10-20 13_37_13-Window.jpg)
 
-y la verdad es que ha salido un cuadrado un poco .... vamos que el error es casi del 70%
+y la verdad es que del diseño 10cm x 10cm, ha salido un cuadrado un poco .... vamos que el error es casi del 70%
 
 ![](/assets/2019-10-20 13_38_51-Window.jpg)
 
-Pero SI que el sensor mide bien, lo puedes ver en el vídeo:
+Pero **los sensores SI que miden bien**, lo puedes ver en el vídeo:
 
 ##Resultado
 
