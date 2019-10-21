@@ -7,7 +7,7 @@ Nos pregunta por el perfil:
 
 ![](/assets/2019-10-21 19_10_14.jpg)
 
-**Ya podemos trabajar** pero está pendiente la confirmación por email
+Una vez rellenado la ventana de registro **ya podemos CREAR PROGRAMAS** pero está pendiente la confirmación por email
 
 ![](/assets/2019-10-21 19_14_27.jpg)
 
