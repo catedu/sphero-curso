@@ -15,3 +15,5 @@ En Windows [nos podemos descargar su app](https://www.microsoft.com/es-es/p/sphe
 ![](/assets/2019-10-04 09_47_57-Window.jpg)
 
 >Para otros sistemas operativos, buscar en Internet
+
+

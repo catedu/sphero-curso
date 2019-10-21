@@ -9,6 +9,7 @@
 * [¿Ganaré la lotería?](ganare-la-loteria.md)
 * [Malabares](malabares.md)
 * [Cuadrado](cuadrado.md)
+* [Registrarse](registrarse.md)
 
 ---
 
