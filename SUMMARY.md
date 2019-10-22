@@ -10,8 +10,7 @@
 * [7 Malabares](malabares.md)
 * [8 Cuadrado](cuadrado.md)
 * [9 ¿Ganaré la lotería?](ganare-la-loteria.md)
-
-
+* [Crear clase](crear-clase.md)
 
 ---
 
