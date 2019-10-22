@@ -7,7 +7,9 @@
   * [2.2 Crear clase](crear-clase.md)
   * [2.3 Encender](encender.md)
   * [2.4 Apagar](pros-and-cons.md)
-* [Pensamiento computacional](pensamiento-computacional.md)
+* [Robótica educativa](robotica-educativa.md)
+* [Muro](muro.md)
+* [Créditos](creditos.md)
 
 ## A trabajar !!
 
@@ -20,4 +22,5 @@
 ## Para saber más ...
 
 * [4 Actividades de otros](actividades-de-otros.md)
+* [Pensamiento computacional](pensamiento-computacional.md)
 
