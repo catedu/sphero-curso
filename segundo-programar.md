@@ -16,4 +16,18 @@ En Windows [nos podemos descargar su app](https://www.microsoft.com/es-es/p/sphe
 
 >Para otros sistemas operativos, buscar en Internet
 
+##On line no funciona
+Si entras en https://edu.sphero.com/ 
+
+![](/assets/2019-10-23 21_23_03-Window.jpg)
+
+Puedes crear tus programas, compartirlos, gestionar tus clases:
+
+![](/assets/2019-10-23 21_27_34-Window.jpg)
+
+**PERO NO PUEDES CONECTARTE CON EL ROBOT**
+
+![](/assets/2019-10-23 21_30_59-Window.jpg)
+
+[ver artículo](https://support.sphero.com/article/3tzmrkc6lx-edu)
 
