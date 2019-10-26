@@ -25,7 +25,7 @@ Puedes crear tus programas, compartirlos, gestionar tus clases:
 
 ![](/assets/2019-10-23 21_27_34-Window.jpg)
 
-**PERO NO PUEDES CONECTARTE CON EL ROBOT**
+**PERO NO PUEDES CONECTARTE CON EL ROBOT** por lo tanto no podemos programar con el robot ¿entonces para qué sirve esta web? 😳
 
 ![](/assets/2019-10-23 21_30_59-Window.jpg)
 
