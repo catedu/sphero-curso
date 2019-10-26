@@ -1,8 +1,11 @@
-#Encender o conectar
+#Encender y conectar con nuestra aplicación
 
 Lo primero que nos sorprende es que no hay botón de encender, sólo se puede **por software** y es necesario **un equipo con Bluetooth** ya sea un móvil o un portátil.
 
-##Con el programa en Windows
+#A Robot en standby
+Verás en [Apagar ](/pros-and-cons.md) que si el robot no se apaga y no se utiliza, al cabo de un rato está en standby, para encenderlo hay que hacerlo por la aplicación, se queda en standby hasta que se agota la batería.
+
+##A1 Con el programa en Windows
 
 Entramos en el botón del robot:
 
@@ -16,7 +19,7 @@ Y calibramos con los botones < y >, el punto luminoso del robot te tiene que ver
 
 ![](/assets/2019-10-04 13_30_34-Window.jpg)
 
-##Con la APP Android
+##A2 Con la APP Android
 
 Buscamos el mismo botón del robot:
 
@@ -34,11 +37,21 @@ Ya sabes, poner el punto que te mire a ti:
 
 ![](/assets/2019-10-19 20_27_03-Window.jpg)
 
-##¿Problemas?
+#B Robot totalmente apagado
 
-Conecta el robot al cargador y eso provoca un reseteo del Bluetooth
+En ese caso:
+
+1.- Conectar el robot al cargador.
+2.- Cuando esté lo suficientemente cargado (si se pone en **verde** es que está totalmente cargado, si está en **azúl** es que se está cargando) lo desconectas.
+3.- Está entonces en modo standby: procede como en los pasos anteriores A.
+
+*Si el robot está totalmente cargado ¿tengo que también poner el cargador? SI, eso provoca el resetedo Bluetooth y modo standby.*
 
 ![](/assets/2019-10-04 15_01_01-Sphero Edu.jpg)
+
+#Problemas en la conexión
+
+Pues proceder igual que en B, conectar el cargador y quitarlo (si tiene suficiente carga), eso provoca el reseteo del Bluetooth.
 
 En la misma APP te recomienda también hacer lo mismo
 
