@@ -9,7 +9,7 @@ Nos pregunta por el perfil:
 
 Una vez rellenado la ventana de registro **ya podemos CREAR PROGRAMAS** 
 
-##Registrarse pero con perfil de profesor, padre para crear grupos a menores.
+##Registrarse pero con perfil de profesor, padre para crear clases o gestionar a menores.
 
 En este caso hay que pedir la confirmación por email
 
@@ -19,7 +19,7 @@ Se recibirá un email con este mensaje:
 
 ![](/assets/2019-10-21 19_15_52.jpg)
 
-Si se pulsa, va a la página web de https://edu.sphero.com/cwists/category **EN TU PERFIL TIENES QUE VERIFICAR TU IDENTIDAD**
+Si se pulsa, va a la página web de https://edu.sphero.com/cwists/category **EN TU PERFIL TIENES QUE FIRMAR TU CONSENTIMIENTO**
 
 ![](/assets/2019-10-21 19_16_55.jpg)
 
