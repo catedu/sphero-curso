@@ -31,3 +31,9 @@ si queremos que salte ya en el primer caso, sin necesidad de llegar al máximo:
 Simplemente bajamos la sensibilidad con otro tipo de programa, sin utilizar el evento giro máximo. En la ilustración el programa modificado para una sensibilidad de 100:
 
 ![](/assets/2019-10-27 08_02_36-Window.jpg)
+
+Elegimos la rotación horizontal pues es la que se va a utilizar:
+
+![](/assets/2019-10-27 08_29_08-Window.jpg)
+
+... pero ¿da igual el sentido de rotación? ¿si giramos en sentido de las agujas del reloj es lo mismo que en sentido contrario?
