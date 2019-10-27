@@ -18,7 +18,7 @@ https://edu.sphero.com/remixes/5451216
 
 ##¿ Problemas ?
 
-Puede ser que tu Sphero-mini no llegue al giro máximo, no no quieres que haya que ser tan bruto para que salte el mensaje
+Puede ser que tu Sphero-mini no llegue al giro máximo, o no quieres que haya que ser tan bruto para que salte el mensaje
 
 En Sensor Data puedes ver qué cantidad de giro ha hecho
 
