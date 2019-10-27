@@ -13,6 +13,9 @@ Este es el resultado:
 
 ![](/assets/2019-10-27 10_27_23-Window.jpg)
 
+##FALTA PROGRAMACIÓN BIDIRECCIONAL APP-SPHERO MINI
+El robot se comunica con la app (con algo de retraso por el Bluetooth) envía los datos de los sensores...
+
 ##Lo que sí que nos gusta
 * Ocupa poco
 * Buen diseño
