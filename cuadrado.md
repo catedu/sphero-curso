@@ -28,3 +28,7 @@ Pero **los sensores SI que miden bien**, lo puedes ver en el vídeo:
 
 {% youtube %}https://youtu.be/YxkXVzXxxsE{%endyoutube%}
 
+##¿Por qué es tan impreciso?
+Ya te dimos una pista en [Giro-mensaje](/giro-mensaje.md): La comunicación entre la aplicación y el robot, cuando la aplicación manda el mensaje de que gire y haga el otro lado, ese retardo él ya ha recorrido 7cm.
+
+
