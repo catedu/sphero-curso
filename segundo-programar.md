@@ -31,3 +31,7 @@ Puedes crear tus programas, compartirlos, gestionar tus clases:
 
 [ver artículo](https://support.sphero.com/article/3tzmrkc6lx-edu)
 
+#Nuestro consejo
+
+[Para jugar](/primer-contacto.md), la versión móvil es mejor, por supuesto, pero... **para programar la versión escritorio** es la mejor opción, pues la pantalla pequeña es un incordio para poner los comandos, elegir, etc... programas cortos como [Giro-mensaje](/giro-mensaje.md) o [malabares ](/malabares.md)se pueden hacer con el móvil, pero [cuadrado ](/cuadrado.md)es un sufrimiento la pantalla pequeña.
+
