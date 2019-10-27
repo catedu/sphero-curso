@@ -7,3 +7,13 @@ El registro de posición, velocidad y giro es tentador para hacer experimentos S
 
 Prueba: El siguiente ejemplo movemos nosotros el robot externamente, y vemos que el sensor detecta sólo que lo hemos movido menos de 2cm ¿por qué? porque **no ha rodado**
 
+{% youtube %}https://www.youtube.com/watch?v=3d1ckVvrsIc&feature=youtu.be{% endyoutube %}
+
+Este es el resultado:
+
+![](/assets/2019-10-27 10_27_23-Window.jpg)
+
+##Lo que sí que nos gusta
+* Ocupa poco
+* Buen diseño
+* Es muy resistente a golpes.
