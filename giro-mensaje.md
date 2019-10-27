@@ -36,4 +36,4 @@ Elegimos la rotación horizontal pues es la que se va a utilizar:
 
 ![](/assets/2019-10-27 08_29_08-Window.jpg)
 
-... pero ¿da igual el sentido de rotación? ¿si giramos en sentido de las agujas del reloj es lo mismo que en sentido contrario?
+... pero ¿da igual el sentido de rotación? R: No, el sentido de rotación de las agujas del reloj da lugar a valores negativos.
