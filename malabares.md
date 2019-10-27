@@ -15,3 +15,6 @@ https://edu.sphero.com/remixes/5451292
 ##Resultado
 
 {% youtube %}https://youtu.be/Wo6s6GsECEs{%endyoutube %}
+
+##¿Por qué a veces no se sincroniza el movimiento con el sonido?
+Si nos fijamos, dependiendo de nuestro equipo (ordenador o móvil) hay un retraso en la comunicación Bluetooth, que hace que el efecto no está sincronizado con el evento.
