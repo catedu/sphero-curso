@@ -1,4 +1,4 @@
-#7 Cuadrado
+#Cuadrado
 
 ###Objetivo
 Un programa que mueva a Sphero Mini en un cuadrado 10cm x 10 cm y visualizaremos el resultado en el registro de sensores del mismo programa.
