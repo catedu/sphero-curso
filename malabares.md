@@ -4,7 +4,7 @@
 Un programa que al lanzar el mini emita un sonido y al aterrizar otro efecto de sonido-luminoso
 
 ##Programa
-Cogeremos los eventos de "caída libre" y "aterrizaje" haremos unos efectos distintos en cada caso.
+Cogeremos los eventos de "caída libre" y "aterrizaje" haremos unos efectos distintos en cada caso. Son eventos que responden al sensor de aceleración (en caída libre tendrá un valor nulo después de pasar por un máximo y en aterrizaje será un valor máximo después de pasar por un valor nulo)
 El programa lo puedes encontrar en este enlace
 
 https://edu.sphero.com/remixes/5451292
