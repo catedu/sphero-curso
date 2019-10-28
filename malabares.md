@@ -4,8 +4,7 @@
 Un programa que al lanzar el mini emita un sonido y al aterrizar otro efecto de sonido-luminoso
 
 ##Programa
-Cogeremos el evento y con el evento colisión le añadimos efectos y audio. Genearemos una variable aleatoria que nos dirá si ganaremos o no la lotería.
-
+Cogeremos los eventos de "caída libre" y "aterrizaje" haremos unos efectos distintos en cada caso.
 El programa lo puedes encontrar en este enlace
 
 https://edu.sphero.com/remixes/5451292
