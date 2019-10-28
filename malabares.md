@@ -1,4 +1,4 @@
-#6 Malabares
+#Malabares
 
 ###Objetivo
 Un programa que al lanzar el mini emita un sonido y al aterrizar otro efecto de sonido-luminoso
