@@ -14,14 +14,14 @@
 * [2.2 Malabares](malabares.md)
 * [2.3 Cuadrado](cuadrado.md)
 * [2.4 ¿Ganaré la lotería?](ganare-la-loteria.md)
-* [2.5 Conclusiones](conclusiones.md)
+* [2.5 Actividades de otros](actividades-de-otros.md)
+* [2.6 Conclusiones](conclusiones.md)
 
 ## 3 Para saber más ...
 
-* [3.1 Actividades de otros](actividades-de-otros.md)
-* [3.2 Pensamiento computacional](pensamiento-computacional.md)
-* [3.3 Robótica educativa](robotica-educativa.md)
-* [3.4 Muro](muro.md)
+* [3.1 Pensamiento computacional](pensamiento-computacional.md)
+* [3.2 Robótica educativa](robotica-educativa.md)
+* [3.3 Muro](muro.md)
 
 * [Créditos](creditos.md)
 
