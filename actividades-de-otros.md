@@ -22,13 +22,15 @@ Entramos en el **canvas**
 
 Y se abre una ventana flexible donde programar en la parte derecha y ver los pasos tutorizados a la izquierda.
 
- Existe un scroll con 3 posiciones:
+##Barra de desplazamiento principal
+
+ Existe un scroll en la barra azul de arriba con 3 posiciones:
  * maximizar izquierda
  * las dos ventanas
  * maximizar la derecha
  
-En la siguiente ilustración el scroll está enmedio, y en la ventana de creación ya nos da una propuesta, normalmente está vacía y tienes que rellenarla.
+En la siguiente ilustración el scroll está enmedio, y en la ventana de creación ya nos da una propuesta de programa. (muchas veces nos encontramos que no hay propuesta, que tienes que hacer tú el programa).
 
-Si nos da la programación podemos encontrar fallos, como en este caso el programa no está preparado para Shpero mini, pues la instrucción *matrix animation* hay que quitarla (que es para la versión no mini).
+También nos podemos encontrar fallos, como en este caso el programa no está preparado para **Shpero mini**, pues la instrucción *matrix animation* es para la versión no mini, hay que quitarla.
 
 ![](/assets/2019-10-04 12_59_40-Window.jpg)
