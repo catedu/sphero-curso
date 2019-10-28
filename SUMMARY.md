@@ -6,8 +6,8 @@
 * [1.1 Primero: APP de Jugar](primer-contacto.md)
 * [1.2 Segundo: APP de Programar](segundo-programar.md)
   * [Registrarse](registrarse.md)
-  * [Encender](encender.md)
-  * [Apagar](pros-and-cons.md)
+* [1.3 Encender](encender.md)
+* [1.4 Apagar](pros-and-cons.md)
 
 ## 2  A programar!!
 
