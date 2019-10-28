@@ -14,10 +14,10 @@ Este es el resultado:
 
 ![](/assets/2019-10-27 10_27_23-Window.jpg)
 
-##FALTA PROGRAMACIÓN BIDIRECCIONAL: APP SPHERO EDU ↔ ROBOT SPHERO MINI
-El robot se comunica con la app (con algo de retraso por el Bluetooth) envía los datos de los sensores... luego hay comunicación entre Sphero-mini y la APP pero **sólo en un sentido Sphero-Mini ➡ Aplicación** ¿Por qué no existe el otro sentido Sphero-mini ⬅ Aplicación? 
+##FALTA PROGRAMACIÓN BIDIRECCIONAL EN EVENTOS: APP SPHERO EDU ↔ ROBOT SPHERO MINI
+El robot se comunica con la app (con algo de retraso por el Bluetooth) envía los datos de los sensores... luego hay comunicación entre Sphero-mini y la APP pero **sólo en un sentido Eventos robot Sphero-Mini ➡ Aplicación** ¿Por qué no existe el otro sentido Sphero-mini ⬅ Eventos en el disipositivo de la Aplicación? 
 
-Por ejemplo en [Sphero Play](/primer-contacto.md) hay juegos que utilizan el móvil como joystick, pero en [Sphero Edu](/segundo-programar.md) no podemos programar enviar órdenes a Sphero-mini, por ejemplo usar las teclas del teclado como joystick.
+Por ejemplo en [Sphero Play](/primer-contacto.md) hay juegos que utilizan el móvil como joystick, pero en [Sphero Edu](/segundo-programar.md) no podemos programar enviar órdenes **según eventos en el dispositivo donde está SheroEdu** a Sphero-mini, por ejemplo usar las teclas del teclado como joystick.
 
 ##ACTIVIDADES DE OTROS
 La gran diversidad de [actividades que se publican](/actividades-de-otros.md) produce un efecto de *infoxicación* y encontramos muchas actividades con poco interés STEM. No obstante si ves algo interesante, puedes ayudarnos y publicarlo [en el muro](/muro.md).
