@@ -21,12 +21,12 @@
 			"caption": "Imagen - _CAPTION_"
 		},
 		"edit-link": {
-		"base": "https://github.com/catedu/curso_de_sphero-mini/edit/master",
+		"base": "https://github.com/catedu/sphero-curso/edit/master",
 		"label": "Edita esta página"
 		},
 		"githubcontributors": {
 			"githubOwner": "catedu",
-			"githubRepository": "curso_de_sphero-mini"
+			"githubRepository": "sphero-curso"
 		}
 	}
 }
