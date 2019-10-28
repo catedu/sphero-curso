@@ -1,10 +1,11 @@
+# Summary
+
 ## 1 Introducción
 
 * [Portada](README.md)
 * [1.1 Primero: APP de Jugar](primer-contacto.md)
 * [1.2 Segundo: APP de Programar](segundo-programar.md)
   * [Registrarse](registrarse.md)
-  * [Crear clase](crear-clase.md)
   * [Encender](encender.md)
   * [Apagar](pros-and-cons.md)
 
@@ -22,6 +23,5 @@
 * [3.1 Pensamiento computacional](pensamiento-computacional.md)
 * [3.2 Robótica educativa](robotica-educativa.md)
 * [3.3 Muro](muro.md)
-
 * [Créditos](creditos.md)
 
