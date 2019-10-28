@@ -1,8 +1,8 @@
-## Summary
+## 1 Introducción
 
-* [1.1 Introducción](README.md)
-* [1.2 Primero: APP de Jugar](primer-contacto.md)
-* [1.3 Segundo: APP de Programar](segundo-programar.md)
+* [Portada](README.md)
+* [1.1 Primero: APP de Jugar](primer-contacto.md)
+* [1.2 Segundo: APP de Programar](segundo-programar.md)
   * [Registrarse](registrarse.md)
   * [Crear clase](crear-clase.md)
   * [Encender](encender.md)
