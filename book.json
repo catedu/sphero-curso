@@ -1,32 +1,50 @@
 {
-	"plugins": ["youtube", "accordion", "styled-blockquotes", "localized-footer", "edit-link", "githubcontributors", "image-captions"],
-	"language": "es",
-	"variables": {
-	"title": "Curso de SPHERO-MINI",
-		"authors": [
-	"Javier Quintana ",
-	" "
-		],
-		"collaborators": [
-		{"name": " ", "edited": " "},
-		{"name": " ", "edited": " "}
-		]
-	},
-	"pluginsConfig": {
-		"localized-footer": {
-			"hline": true,
-			"filename": "./FOOTER.md"
-		},
-		"image-captions": {
-			"caption": "Imagen - _CAPTION_"
-		},
-		"edit-link": {
-		"base": "https://github.com/catedu/sphero-curso/edit/master",
-		"label": "Edita esta página"
-		},
-		"githubcontributors": {
-			"githubOwner": "catedu",
-			"githubRepository": "sphero-curso"
-		}
-	}
+  "plugins": [
+    "youtube",
+    "accordion",
+    "styled-blockquotes",
+    "localized-footer",
+    "edit-link",
+    "githubcontributors",
+    "image-captions",
+    "ga"
+  ],
+  "language": "es",
+  "variables": {
+    "title": "Curso de SPHERO-MINI",
+    "authors": [
+      "Javier Quintana ",
+      " "
+    ],
+    "collaborators": [
+      {
+        "name": " ",
+        "edited": " "
+      },
+      {
+        "name": " ",
+        "edited": " "
+      }
+    ]
+  },
+  "pluginsConfig": {
+    "localized-footer": {
+      "hline": true,
+      "filename": "./FOOTER.md"
+    },
+    "image-captions": {
+      "caption": "Imagen - _CAPTION_"
+    },
+    "edit-link": {
+      "base": "https://github.com/catedu/sphero-curso/edit/master",
+      "label": "Edita esta página"
+    },
+    "githubcontributors": {
+      "githubOwner": "catedu",
+      "githubRepository": "sphero-curso"
+    },
+    "ga": {
+      "token": "UA-135691041-2"
+    }
+  }
 }
