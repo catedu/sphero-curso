@@ -22,7 +22,7 @@ Puede ser que tu Sphero-mini no llegue al giro máximo, o no quieres que haya qu
 
 En Sensor Data puedes ver qué cantidad de giro ha hecho
 
-![](https://catedu.gitbooks.io/sphero-mini/content/assets/2019-10-20%2013_37_13-Window.jpg)
+![](https://catedu.github.io/sphero-curso/assets/2019-10-20%2013_37_13-Window.jpg)
 
 si queremos que salte ya en el primer caso, sin necesidad de llegar al máximo:
 
